@@ -1,4 +1,4 @@
-:HL["/tishchenko-alisa-portfolio/_next/static/css/c5d8f19c30bcf870.css","style"]
+:HL["/tishchenko-alisa-portfolio/_next/static/css/6c2791cb43e6594b.css","style"]
 :HL["/tishchenko-alisa-portfolio/_next/static/css/6769db19b78c851d.css","style"]
 :HL["/tishchenko-alisa-portfolio/_next/static/css/5faa96fa12adebd5.css","style"]
-0:{"buildId":"LvMF2WPYT3RDn_0ivxh6B","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(home)","paramType":null,"paramKey":"(home)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"BwqClhC0PBLuDzWe7qXqy","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(home)","paramType":null,"paramKey":"(home)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
